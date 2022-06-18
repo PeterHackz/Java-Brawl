@@ -5,7 +5,7 @@ thank you Icaro for OwnHomeDataMessage structure
 
 I did the code entirely from scratch by myself
 
-if you don't know java or don't know how to run it, please don't contact me.
+if you don't know java or don't know how to run it, please don't contact me asking how.
 
 if you want to learn from this project, feel free, just please don't ask me silly questions like 'how to run' (fun fact: I made it while learning Java)
 
