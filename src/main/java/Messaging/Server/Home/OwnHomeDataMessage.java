@@ -10,7 +10,6 @@ import com.java.brawl.sb.Utils.EventsManager;
 public class OwnHomeDataMessage extends ByteStream {
 
 	private PlayerSession player;
-	private ByteStream stream;
 	private DataOutputStream writer;
 
 	private int type = 24101,
