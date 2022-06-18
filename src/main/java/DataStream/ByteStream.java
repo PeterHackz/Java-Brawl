@@ -117,6 +117,7 @@ public class ByteStream {
 		result = new String(this.readBytes(len));
 		return result;
 	}
+        // this method is discovered by nameless#1347
 	public int readVInt() {
 		int b = this.readByte();
 		int sign  = b >> 6, ret = b & 0x3F, off = 3;
