@@ -1,7 +1,7 @@
 # Java-Brawl
 first open-source brawl stars private server written in java! (and first open-source v23 private server!)
 ## some stuff you should read
-thank you Icaro for OwnHomeDataMessage structure
+thank you [Icaro](https://github.com/IsaaSooBarr) for OwnHomeDataMessage structure
 
 I did the code entirely from scratch by myself
 
