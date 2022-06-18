@@ -7,7 +7,7 @@ I did the code entirely from scratch by myself
 
 if you don't know java or don't know how to run it, please don't contact me.
 
-if you want to learn from this project, feel free, just please don't ask me silly questions like 'how to run'
+if you want to learn from this project, feel free, just please don't ask me silly questions like 'how to run' (fun fact: I made it while learning Java)
 
 this is made as a good server base in java, you can implement other packets and a database by yourself
 
@@ -30,7 +30,7 @@ mvn package
 java -jar JavaBrawl-1.0.jar
 ```
 
-another option if you don't want to modify the source and don't have maven installed is using the [pre-compiled](https://github.com/SB-9838/Java-Brawl/pre-compiled/) jar file
+another option if you don't want to modify the source and don't have maven installed is using the [pre-compiled](https://github.com/SB-9838/Java-Brawl/main/pre-compiled/) jar file
 
 # star
 give a 🌟 for this repo because why not!
