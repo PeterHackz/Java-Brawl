@@ -9,7 +9,6 @@ import com.java.brawl.sb.Messaging.Server.Home.OwnHomeDataMessage;
 
 public class GoHomeFromOfflinePractiseMessage extends ByteStream {
 
-	private ByteStream stream;
 	private PlayerSession player;
 	private DataOutputStream writer;
 
