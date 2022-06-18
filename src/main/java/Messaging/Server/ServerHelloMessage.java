@@ -8,7 +8,6 @@ import com.java.brawl.sb.Utils.createMessage;
 public class ServerHelloMessage extends ByteStream {
 
 	private PlayerSession player;
-	private ByteStream stream;
 	private DataOutputStream writer;
 
 	private int type = 20100, 
