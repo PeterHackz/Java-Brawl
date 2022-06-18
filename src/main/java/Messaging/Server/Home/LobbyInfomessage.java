@@ -11,7 +11,6 @@ import com.java.brawl.sb.Utils.createMessage;
 public class LobbyInfoMessage extends ByteStream {
 
 	private PlayerSession player;
-	private ByteStream stream;
 	private DataOutputStream writer;
 
 	private int type = 23457, 
