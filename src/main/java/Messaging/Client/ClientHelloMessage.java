@@ -9,7 +9,6 @@ import com.java.brawl.sb.Messaging.Server.ServerHelloMessage;
 
 public class ClientHelloMessage extends ByteStream {
 	
-	private ByteStream stream;
 	private PlayerSession player;
 	private DataOutputStream writer;
 
