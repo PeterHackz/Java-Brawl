@@ -30,7 +30,7 @@ mvn package
 java -jar JavaBrawl-1.0.jar
 ```
 
-another option if you don't want to modify the source and don't have maven installed is using the [pre-compiled](https://github.com/SB-9838/Java-Brawl/main/pre-compiled/) jar file
+another option if you don't want to modify the source and don't have maven installed is using the [pre-compiled](https://github.com/SB-9838/Java-Brawl/tree/main/pre-compiled) jar file
 
 # star
 give a 🌟 for this repo because why not!
