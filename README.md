@@ -13,8 +13,14 @@ this is made as a good server base in java, you can implement other packets and 
 
 have fun ^^
 
+# setup the client 
+this server don't use crypto, so we disable it. 
 
-# how2run
+you have 2 options, either patch your own client or use my [patched client](https://www.mediafire.com/file/c79cm3v7cdyvevx/BrawlStars-v23.apk/file)
+
+for the my patched client, you can change the server ip and port that the apk will connect to in `libjava-cat.config.so` in the libs folder
+
+# how2run the server 
 on android:
 
 install Jvdroid, open pom.xml and run it.
